@@ -1,0 +1,14 @@
+/home/ezie/Documents/GitHub/Web-Application--Kodomo-Prototype/web_audio/build/linux/x64/debug/CMakeFiles/web_audio.dir
+/home/ezie/Documents/GitHub/Web-Application--Kodomo-Prototype/web_audio/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/ezie/Documents/GitHub/Web-Application--Kodomo-Prototype/web_audio/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/ezie/Documents/GitHub/Web-Application--Kodomo-Prototype/web_audio/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/ezie/Documents/GitHub/Web-Application--Kodomo-Prototype/web_audio/build/linux/x64/debug/CMakeFiles/install.dir
+/home/ezie/Documents/GitHub/Web-Application--Kodomo-Prototype/web_audio/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/ezie/Documents/GitHub/Web-Application--Kodomo-Prototype/web_audio/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/ezie/Documents/GitHub/Web-Application--Kodomo-Prototype/web_audio/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
+/home/ezie/Documents/GitHub/Web-Application--Kodomo-Prototype/web_audio/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/ezie/Documents/GitHub/Web-Application--Kodomo-Prototype/web_audio/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/ezie/Documents/GitHub/Web-Application--Kodomo-Prototype/web_audio/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/ezie/Documents/GitHub/Web-Application--Kodomo-Prototype/web_audio/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/home/ezie/Documents/GitHub/Web-Application--Kodomo-Prototype/web_audio/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/ezie/Documents/GitHub/Web-Application--Kodomo-Prototype/web_audio/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
