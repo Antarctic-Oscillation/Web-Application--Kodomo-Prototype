@@ -4,7 +4,7 @@ import 'include/audio_recorder.dart'; // Handling audio recording
 import 'include/network_helper.dart'; // Handling network requests
 import 'include/ui_components.dart'; // Reusable UI components
 
-const String endpoint = 'http://192.168.100.39:8080/upload';
+const String endpoint = 'http://127.0.0.1:8080/upload';
 const Color veryDarkBlue = Color(0xff172133);
 const Color kindaDarkBlue = Color(0xff202641);
 
@@ -47,7 +47,7 @@ class _RecordingScreenState extends State<RecordingScreen> {
   }
 
   void handleUpload() async {
-    setState(() =>isUploading = true);
+    setState(() => isUploading = true);
     final response = await networkHelper.uploadRecording(recorder);
     setState(() {
       serverResponse = response;
